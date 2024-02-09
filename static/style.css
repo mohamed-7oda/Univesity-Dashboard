@@ -1,0 +1,41 @@
+#chartdiv{
+    position: fixed;
+    top: 0;
+    right: 0;
+    width: 50%;
+    box-sizing: border-box;
+    height: 300px;
+    margin-top: 25px;
+}
+
+#datadiv{
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 50%;
+    box-sizing: border-box;
+    height: 270px;
+    /*border-right: 2px solid #000;*/
+}
+
+#bardiv{
+    box-sizing: border-box;
+    top: 0;
+    left: 0;
+    width: 50%;
+    height: 280px;
+    margin-top: 10px;
+    /*border-bottom: 2px solid #000;
+    border-right: 2px solid #000*/
+}
+
+#linediv{
+    position: fixed;
+    width: 50%;
+    height: 270px;
+    bottom: 0;
+    right: 0;
+    box-sizing: border-box;
+    /*border-top: 2px solid #000*/
+
+}
